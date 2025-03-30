@@ -1,3 +1,4 @@
+![Banner GitHub](assets/banner.gif)
 
 
 # Hi, I'm Fábio Costa
