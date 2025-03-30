@@ -3,7 +3,7 @@
 
 # Hi, I'm Fábio Costa
 
-I'm an 18-year-old Software Engineering student at ISEP who loves technology, problem-solving, and teamwork. Always eager to learn and take on new challenges.
+I'm an 18-year-old Software Engineering student at ISEP who loves technology, problem-solving, and teamwork. Always eager to learn and take on new challenges!
 
 ---
 
