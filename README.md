@@ -27,6 +27,9 @@ I'm an 18-year-old Software Engineering student at ISEP who loves technology, pr
 ## 📊 GitHub Stats
 ![Fábio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1240826&show_icons=true&theme=dracula)
 
+### 📈 GitHub Contributions
+![Fábio's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1240826&theme=dracula)
+
 ---
 
 ## 📬 Contact Me
