@@ -30,7 +30,7 @@ I'm an 18-year-old Software Engineering student at ISEP who loves technology, pr
 ### 📈 GitHub Contributions
 ![Fábio's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1240826&theme=dracula)
 ### 📈 GitHub Contributions
-![Fábio's GitHub Contributions](https://github.com/1240826.png?tab=overview&from=2025-01-01&to=2025-12-31)
+![Fábio's GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=1240826&theme=dracula)
 
 ---
 
